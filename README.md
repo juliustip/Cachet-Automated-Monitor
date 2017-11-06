@@ -15,7 +15,7 @@ Telling [docker-compose] to start the stack will spin up 3 containers.
 ## Getting Started
 1. Clone this repo
 ```shell
-git clone git@github.com:juliustip/Cachet-Automated-Monitor.git
+git clone https://github.com/juliustip/Cachet-Automated-Monitor.git
 ```
 
 2. Optionally update the [`docker-compose.yml`](./docker-compose.yml) ENV vars. You should probably specify your own APP_KEY, which is detailed in [Cachet's README]
